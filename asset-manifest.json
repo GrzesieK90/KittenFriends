@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/grzesiek90.github.io/kittenfriends/static/css/main.02c093b9.css",
+    "main.js": "/grzesiek90.github.io/kittenfriends/static/js/main.8a94b2a7.js",
+    "static/js/787.1cf37bed.chunk.js": "/grzesiek90.github.io/kittenfriends/static/js/787.1cf37bed.chunk.js",
+    "static/media/SEGA.woff": "/grzesiek90.github.io/kittenfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/grzesiek90.github.io/kittenfriends/index.html",
+    "main.02c093b9.css.map": "/grzesiek90.github.io/kittenfriends/static/css/main.02c093b9.css.map",
+    "main.8a94b2a7.js.map": "/grzesiek90.github.io/kittenfriends/static/js/main.8a94b2a7.js.map",
+    "787.1cf37bed.chunk.js.map": "/grzesiek90.github.io/kittenfriends/static/js/787.1cf37bed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c093b9.css",
+    "static/js/main.8a94b2a7.js"
+  ]
+}
